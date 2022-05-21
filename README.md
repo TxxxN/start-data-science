@@ -15,3 +15,9 @@ matplotlib中心に描画ツールの使い方(必要最低限)
 
 4. 実践
 それぞれの業務で活用
+
+## references
+https://datawokagaku.com/python_for_ds_summary/
+https://www.meiji.ac.jp/isys/doc/seminar/Python_text.pdf
+https://www.practicaldatascience.org/html/index.html
+https://github.com/TxxxN/start-data-xcience
