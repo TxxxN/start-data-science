@@ -24,5 +24,7 @@ Python 入門 テキスト, Meiji Univ. <br>
 https://www.meiji.ac.jp/isys/doc/seminar/Python_text.pdf <br>
 practical data science, Duke Uinv. <br>
 https://www.practicaldatascience.org/html/index.html <br>
+matplotlib の figure（図） と axes（座標軸）－python <br>
+http://ailaby.com/matplotlib_fig/ <br>
 git repo. <br>
 https://github.com/TxxxN/start-data-science <br>
